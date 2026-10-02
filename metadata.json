@@ -1,0 +1,17 @@
+{
+  "source_url": "https://opendata.camden.gov.uk/api/v3/views/mekw-8vgt/export.csv?accessType=DOWNLOAD",
+  "license": "UK Open Government Licence (catalogue metadata)",
+  "rows": 333,
+  "columns": [
+    "Contract Number",
+    "Supplier Name",
+    "Contract Title",
+    "Contract Description",
+    "Procurement Category",
+    "Amount",
+    "Start Date",
+    "End Date",
+    "Extension Options"
+  ],
+  "sha256": "8092137de036697f24183564310526c4b22e555e44f78733312bd2132088ce10"
+}
